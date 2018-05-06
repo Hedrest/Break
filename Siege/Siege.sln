@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siege", "Siege.csproj", "{EEF492F4-465F-8905-D5D9-715B9F00C36A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siege.Editor", "Siege.Editor.csproj", "{B6A94AA0-DED6-CDE8-22A2-C2A9888ACAB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF492F4-465F-8905-D5D9-715B9F00C36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF492F4-465F-8905-D5D9-715B9F00C36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF492F4-465F-8905-D5D9-715B9F00C36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF492F4-465F-8905-D5D9-715B9F00C36A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A94AA0-DED6-CDE8-22A2-C2A9888ACAB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A94AA0-DED6-CDE8-22A2-C2A9888ACAB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A94AA0-DED6-CDE8-22A2-C2A9888ACAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A94AA0-DED6-CDE8-22A2-C2A9888ACAB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
